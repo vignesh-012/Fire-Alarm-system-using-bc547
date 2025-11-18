@@ -28,13 +28,13 @@ Easily maintainable and cost-effective
 🛠 Tech Stack
 Hardware
 
-BC547 NPN Transistor
-IR LED / Photodiode
-Piezo Buzzer
-Red LED (5mm)
-9V Battery with connector
-PCB (2×3 inch)
-Resistors (220Ω)
+BC547 NPN Transistor,
+IR LED / Photodiode,
+Piezo Buzzer,
+Red LED (5mm),
+9V Battery with connector,
+PCB (2×3 inch),
+Resistors (220Ω).
 
 Software
 
